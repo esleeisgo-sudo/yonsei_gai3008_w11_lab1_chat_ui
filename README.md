@@ -55,3 +55,4 @@ test/widget_test.dart  ← 앱이 뜨는지 확인하는 스모크 테스트
 
 ⓒ 2026 Baryon Labs · 연세대학교 GAI3008-01 응용모바일프로그래밍 교육자료
 ![alt text](image.png)
+![alt text](image-1.png)
